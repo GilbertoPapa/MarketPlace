@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385302571772",
+    "firebase_url": "https://market-place-app-534a8.firebaseio.com",
+    "project_id": "market-place-app-534a8",
+    "storage_bucket": "market-place-app-534a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385302571772:android:213b7ab4b63518e6",
+        "android_client_info": {
+          "package_name": "com.marketplace.streamcode.gilbertopapa.marketplaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385302571772-urns0frsot6gp84g5rr0sjj1dfj7ds3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marketplace.streamcode.gilbertopapa.marketplaceapp",
+            "certificate_hash": "25d6c2b74bf42ad4fede6ca351b1ac6eac348aa9"
+          }
+        },
+        {
+          "client_id": "385302571772-ktrsu6kh1m47k0q8gjufv12k6fkaaoun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKRd4zFOaAaoDKVxCXE_Fl3t0BY3pU258"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385302571772-ktrsu6kh1m47k0q8gjufv12k6fkaaoun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
