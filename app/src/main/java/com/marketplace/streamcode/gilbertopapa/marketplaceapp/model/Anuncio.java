@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by jamiltondamasceno
+ * Created by Gilbertopapa
  */
 
 public class Anuncio implements Serializable {

@@ -16,7 +16,7 @@ import com.squareup.picasso.Picasso;
 import java.util.List;
 
 /**
- * Created by jamiltondamasceno
+ * Created by Gilbertopapa
  */
 
 public class AdapterAnuncios extends RecyclerView.Adapter<AdapterAnuncios.MyViewHolder> {
